@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class AutoColorChanger : MonoBehaviour
 {
-    public GameData gameData;   // не очень хорошо
+    public GameData gameData;
     public GeometryObjectModel objectModel;
 
     private string nameOfGameData = "GameData";
