@@ -4,7 +4,7 @@ using UnityEngine.Events;
 [System.Serializable]
 public class EventVector3 : UnityEvent<Vector3> { }
 
-
+// new fix 
 public class MouseManager : MonoBehaviour
 {
     public EventVector3 OnClickCreateObject;
